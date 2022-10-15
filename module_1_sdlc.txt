@@ -1,0 +1,141 @@
+
+*******WHAT IS SOFTWARE?
+
+
+Software is a set of instructions, data, or programs used to operate a computer and execute specific tasks. In simpler terms, software tells a computer how to function. It’s a generic term used to refer to applications, scripts, and programs that run on devices such as PCs, mobile phones, tablets, and other smart devices. Software contrasts with hardware, which is the physical aspects of a computer that perform the work.
+
+
+
+Without software, most computers would be useless. For example, a web browser is a software application that allows users to access the internet. Without the web browser software, reading this page on Webopedia wouldn’t be possible. An operating system (OS) is a software program that serves as the interface between other applications and the hardware on a computer or mobile device. TCP/IP is built into all major operating systems to allow computers to communicate over long distance networks. Without the OS or the protocols built into it, it wouldn’t be possible to access a web browser.
+
+
+
+The majority of software is written in high-level programming languages due to the language being closer to natural human language as opposed to machine language. The high-level language is then translated into low-level machine code using a compiler or interpreter for the computer to understand. Software can also be written in a low-level assembly language, but it is less common.
+
+
+
+__________________________________________________
+
+
+
+ ******What is Application Software?
+
+
+
+Application software is a computer program that performs a specific function, be it educational, personal, or business. It is also known as an end-user program or a productivity program. Each application is designed to assist users with a particular task that may be related to creativity, productivity, or communication. Application software programs are specific in their functionality and perform the job they are designed to do. The primary goal of every application software is to simplify an operation and help users get their tasks done effortlessly.
+
+Today, we have a plethora of high-end application software at our disposal that defines how we live our lives and accommodate our ever-evolving requirements. Widely used application software includes office productivity suites, data management software, media players, and security programs. The common apps we see on our smartphones are also examples.
+
+
+---Examples of Application Software-
+
+
+Be it completing your tasks, jotting down notes, completing your online research, setting the alarm, keeping an account log, or even playing games; there are explicit application software programs that can help you out. Application software programs are designed to perform specific tasks, simplify workflows, and improve team communication. The most common examples of applications used by millions daily are listed below.
+
+
+-A suite of Microsoft products such as MS Office, PowerPoint, MS Word, Excel, and Outlook.
+-Internet browsers like Google Chrome, Safari, Firefox, etc.
+-Graphics and design software such as Adobe Photoshop, CorelDraw, and AutoCAD.
+-Real-time online communication tools like Skype, Hangouts, Google Meet, Zoom, and Whatsapp.
+-Multimedia and music streaming software such as MX Player, VLC Media Player, Spotify, Pandora, etc.
+-Project management software like Asana, Zoho, Slack, Forecast, etc.
+
+
+
+---Functions of Application Software-
+
+
+Application software programs are designed to execute a large variety of functions. The functions can vary depending on the users’ requirements. Irrespective of the industry or business domain, application software can be built to serve a specified purpose.
+
+-- Here are a couple of examples:-
+
+-Data analysis and information management
+-Document manager
+-Emails, text messaging, audio and video conferencing
+-Graphics, animations, and video development
+-Accounting, payroll, and finance management
+-Project management
+-Resource (ERP and CRM system) and HR management
+-Software for healthcare management
+-Business project management
+-LMS and eLearning software.
+
+__________________________________________________
+
+******What is programming?
+
+
+
+Programming is an exercise or practice that boost our logical thinking and improves a problem-solving skill. It teaches us how to accomplish a task with the help of a computer program or software. Therefore, in simple terms, programming is a task to implement a solution to a problem in the form of computer language. In this section, we will discuss the word programming, programming languages, its type, advantages, disadvantages, and their uses.
+
+
+---Definition of Programming--
+
+
+In computer science fields, the word program characterizes what a computer actually does and this process is known as programming.
+
+We can also define the term programming as it is the process that models or structure the set of instructions that instruct the machine how to perform a task and what to perform. It can be done using a variety of programming languages such as
+ -C 
+-c++
+-python
+- Java
+, etc.
+
+--Advantages of Programming--
+
+-It enhances problem-solving skills.
+-Using programming, we can solve complex problems.
+-It is also learning with fun.
+-It can perform multiple tasks can be bundled into one module.
+-It saves time and effort.
+-Disadvantages of Programming
+-Knowledge of computer is mandatory.
+-Logical thinking should be strong.
+-Programming Paradigms
+-In layman's terms, programming paradigms are a fundamental style of computer programming.
+
+
+
+In technical terms, a programming paradigm is a way to deal with tackle issues utilizing some programming language. Additionally, we can say that it is a strategy to take care of an issue using tools and techniques that are accessible to us following some methodology.
+
+It differs in the concepts and methods that are used to represent the elements (such as objects, variables, functions, and constraints) of a program. And the steps that involve a calculation (like assignations, evaluation, continuations, and data flows). The lowest programming paradigm is machine code.
+
+There are lots of things for programming languages that are known. However, every one of them needs to follow some procedure when they are executed and this approach/methodology is a paradigm.
+
+
+__________________________________________________
+
+******What is Python?
+
+
+
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+--It is used for:-
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+
+--------What can Python do?
+
+Python can be used on a server to create web applications.
+Python can be used alongside software to create workflows.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
+
+--------Why Python?
+-Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+-Python has a simple syntax similar to the English language.
+-Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+-Python runs on an interpreter system, meaning that code can be executed as soon as it is written. This means that prototyping can be very quick.
+-Python can be treated in a procedural way, an object-oriented way or a functional way.
+-Python was designed for readability, and has some similarities to the English language with influence from mathematics.
+-Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses.
+-Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
+
+
+__________________________________________________
+
